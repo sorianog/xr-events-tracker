@@ -1,6 +1,6 @@
 # XR Events Tracker
-A place to track XR (VR/AR/MR) events all over planet Earth!  
-[What is XR?](https://medium.com/@northof41/what-really-is-the-difference-between-ar-mr-vr-xr-35bed1da1a4e)
+A place to track XR (VR/AR/MR) events all over planet Earth! [What is XR?](https://medium.com/@northof41/what-really-is-the-difference-between-ar-mr-vr-xr-35bed1da1a4e)  
+Sources: https://docs.google.com/spreadsheets/d/1CUIyENeVj7ZTvVu4d09-UySnNv8BJsVQHAsoAEivFJk/
 
 ## United States Events
 - [Enterprise Wearable Technology Summit (EWTS)](https://brainxchange.io/events/ewts-2018/)
