@@ -20,10 +20,15 @@ Sources: https://docs.google.com/spreadsheets/d/1CUIyENeVj7ZTvVu4d09-UySnNv8BJsV
   - Date: October 17-18, 2018
 
 ## Europe/United Kingdom Events
-- [VR Days](http://vrdays.co/)
-  - Locations: DeLaMar Theatre (Oct 24), Kromhouthal (Oct 25-26), Amsterdam
-  - Date: October 24-26, 2018
-  
 - [Augmented World Expo (AWE) EU](https://eu.augmentedworldexpo.com/)
   - Location: MOC Exhibition Center | Lilienthalallee 40, 80939 München, Germany
   - Date: October 18-19, 2018
+
+- [VR Days](http://vrdays.co/)
+  - Locations: DeLaMar Theatre (Oct 24), Kromhouthal (Oct 25-26), Amsterdam
+  - Date: October 24-26, 2018
+
+## Global Events
+- [Dextra Global VR Summit](https://www.dextra.com/globalvrsummit)
+  - Location: Dextra app | Live panels in AltspaceVR
+  - Date: October 27-30, 2018
