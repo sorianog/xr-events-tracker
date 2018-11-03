@@ -5,6 +5,10 @@ Sources: https://docs.google.com/spreadsheets/d/1CUIyENeVj7ZTvVu4d09-UySnNv8BJsV
 ## 2018 Events
 
 ### United States Events 🇺🇸
+- [Mixed Reality Marketing Summit (MRMS)](https://exmalatam.com/exus/)
+  - Location: National Geographic Encounter | 226 W 44th St,New York, NY 10036, EE. UU.
+  - Date: November 5, 2018
+
 - [NYVR Expo](https://www.nyvrexpo.com/)
   - Location: Jacob K. Javits Convention Center | 655 W 34th St, New York, NY 10001
   - Date: October 25-27, 2018
@@ -35,6 +39,10 @@ Sources: https://docs.google.com/spreadsheets/d/1CUIyENeVj7ZTvVu4d09-UySnNv8BJsV
   - Date: November 8-9, 2018
 
 ### Europe/United Kingdom Events 🇬🇧
+- [VR Now Con](http://www.vrnowcon.io/)
+  - Location: fx.Center | Studiogelände Babelsberg August-Bebel-Str. 26 14482 Potsdam
+  - Date: November 14-15, 2018
+
 - [VR Days](http://vrdays.co/)
   - Locations: DeLaMar Theatre (Oct 24), Kromhouthal (Oct 25-26), Amsterdam
   - Date: October 24-26, 2018
