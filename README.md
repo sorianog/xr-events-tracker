@@ -2,6 +2,22 @@
 A place to track XR (VR/AR/MR) events all over planet Earth! [What is XR?](https://medium.com/@northof41/what-really-is-the-difference-between-ar-mr-vr-xr-35bed1da1a4e)  
 Sources: https://docs.google.com/spreadsheets/d/1CUIyENeVj7ZTvVu4d09-UySnNv8BJsVQHAsoAEivFJk/
 
+## 2019 Events
+### United States Events
+- [VR Wellness Hackathon](https://www.eventbrite.com/e/2nd-annual-vr-wellness-hackathon-tickets-51770488926)
+  - Location: Google San Francisco | San Francisco, CA 94102
+  - Date: January 10-11, 2019
+
+- [Reality Virtually Hackathon](https://realityvirtuallyhack.com/)
+  - Location: MIT Media Lab | 75 Amherst St, Cambridge
+  - Date: January 17-21, 2019
+
+### Europe/United Kingdom Events 🇬🇧
+
+- [Mixed Reality Developer Summit](http://mrdevsummit.com/)
+  - Location: London 
+  - Date: June 17-21, 2019
+
 ## 2018 Events
 
 ### United States Events 🇺🇸
