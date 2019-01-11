@@ -3,7 +3,7 @@ A place to track XR (VR/AR/MR) events all over planet Earth! [What is XR?](https
 Sources: https://docs.google.com/spreadsheets/d/1CUIyENeVj7ZTvVu4d09-UySnNv8BJsVQHAsoAEivFJk/
 
 ## 2019 Events
-### United States Events
+### United States Events 🇺🇸
 - [VR Wellness Hackathon](https://www.eventbrite.com/e/2nd-annual-vr-wellness-hackathon-tickets-51770488926)
   - Location: Google San Francisco | San Francisco, CA 94102
   - Date: January 10-11, 2019
