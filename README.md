@@ -4,6 +4,10 @@ Sources: https://docs.google.com/spreadsheets/d/1CUIyENeVj7ZTvVu4d09-UySnNv8BJsV
 
 ## 2019 Events
 ### United States Events 🇺🇸
+- [Immersive Design Summit](https://immersivedesignsummit.com/)  
+  - Location: Swedish American Hall and Cafe du Nord | 2174 Market St San Francisco, CA 94114 
+  - Date: February 22-23, 2019 
+
 - [VR Wellness Hackathon](https://www.eventbrite.com/e/2nd-annual-vr-wellness-hackathon-tickets-51770488926)
   - Location: Google San Francisco | San Francisco, CA 94102
   - Date: January 10-11, 2019
@@ -13,10 +17,18 @@ Sources: https://docs.google.com/spreadsheets/d/1CUIyENeVj7ZTvVu4d09-UySnNv8BJsV
   - Date: January 17-21, 2019
 
 ### Europe/United Kingdom Events 🇬🇧
-
+- [AVR360 Show](http://www.augmentedrealityshow.net/index.php)
+  - Location: ExCel London | Royal Victoria Dock, 1 Western Gateway, London E16 1XL, UK
+  - Date: March 13-14, 2019  
+  
 - [Mixed Reality Developer Summit](http://mrdevsummit.com/)
   - Location: London 
   - Date: June 17-21, 2019
+
+### Asia  
+- [IEEE Virtual Reality conference](http://ieeevr.org/2019/)  
+  - Location: Osaka International Convention Center | 5 Chome-3-５１ Nakanoshima, Kita, Osaka, Osaka Prefecture 530-0005, Japan
+  - Date: March 23-27, 2019
 
 ## 2018 Events
 
